@@ -1,12 +1,9 @@
-# Text-Exercises
-An Introduction to Programming with C++ (Diane Zak)
-//Chapter 4, Exercise, Introductory11.cpp
-
+//An Introduction to Programming with C++ (Diane Zak)
+//Chapter 4, Exercises
 #include <iostream>
-
 using namespace std;
-
 int main()
+
 {
     //declare variables
     int beginStock = 0;
