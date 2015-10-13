@@ -3,4 +3,4 @@ Exercises and Labs
 
 
 
-This repository is a collection of the exercises and Labs that were not required for my program.
+This repository is a collection of the exercises and Labs.
