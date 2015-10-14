@@ -1,6 +1,6 @@
 //Introduction to Programming with C++ (6th ed) <Diane Zak>
-//Chapter 13 figures
-//created/revised by <Rex Jepson> <date>
+//Chapter 14 Exercise 18 ModifyThis18
+//created/revised by <Rex Jepson> <10-18-2015>
 
 #include <iostream>
 #include <iomanip>
