@@ -1,7 +1,8 @@
 //Introduction to Programming with C++ (6th ed) <Diane Zak>
 //Chapter 13, Exercise Advanced 13-32 -- change word to pig-latin
 //There are three possible cases:
-//1st - starts w vowel (not incl "Y"/"y"), 2nd - no vowels, or 3rd - an embedded "Y"/"y"
+//1st - starts w vowel (not incl "Y"/"y"), 2nd 
+      - no vowels, or 3rd - an embedded "Y"/"y"
 
 //created/revised by <Rex Jepson> <10/11/2015>
 
